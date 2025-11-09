@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "input_document": [
+            "",
+            "",
+            ""
+        ],
+        "persona": {
+            "role": ""
+        },
+        "job_to_be_done": {
+            "task": ""
+        },
+        "processing_timestamp": "2025-11-09T16:52:02.427738",
+        "final_summary": ""
+    },
+    "extracted_section": [],
+    "subsection_analysis": []
+}

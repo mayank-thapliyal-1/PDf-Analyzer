@@ -1,0 +1,27 @@
+{
+    "challenge_info": {
+        "challenge_id": "",
+        "test_case_name": "",
+        "description": ""
+    },
+    "documents": [
+        {
+            "filename": "",
+            "title": ""
+        },
+        {
+            "filename": "",
+            "title": ""
+        },
+        {
+            "filename": "",
+            "title": ""
+        }
+    ],
+    "persona": {
+        "role": ""
+    },
+    "job_to_be_done": {
+        "task": ""
+    }
+}
